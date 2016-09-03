@@ -1,5 +1,5 @@
 # BalloonFight
-a multiplayer html5 game
+a Nintendo BalloonFight standalone demo
 
 ##HowTo
 use <- -> key to move, space key to jump
